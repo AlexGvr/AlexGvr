@@ -12,6 +12,7 @@ Classic ML:
 Deep Learning:
 - Pytorch
 - NLP - GRU, Transformer, Word2Vec
+
 Software Development & Engineering:
 - Python 3,
  - PostgreSQL, MySQL
