@@ -14,7 +14,7 @@ Deep Learning:
 - NLP - GRU, Transformer, Word2Vec
 
 Software Development & Engineering:
-- Python 3,
+- Python 3
 - PostgreSQL, MySQL
 - Git, Linux, Jira
 - Docker 
