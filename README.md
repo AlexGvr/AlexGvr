@@ -7,7 +7,7 @@
 Hard Skills:
 Classic ML:
 - Scikit-learn, Pandas, Numpy
- - Lightgbm, Сatboost
+- Lightgbm, Сatboost
 
 Deep Learning:
 - Pytorch
@@ -15,7 +15,7 @@ Deep Learning:
 
 Software Development & Engineering:
 - Python 3,
- - PostgreSQL, MySQL
+- PostgreSQL, MySQL
 - Git, Linux, Jira
 - Docker 
 
