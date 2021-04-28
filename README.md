@@ -8,6 +8,7 @@ Hard Skills:
 Classic ML:
 - Scikit-learn, Pandas, Numpy
  - Lightgbm, Сatboost
+
 Deep Learning:
 - Pytorch
 - NLP - GRU, Transformer, Word2Vec
